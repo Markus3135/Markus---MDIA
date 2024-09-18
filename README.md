@@ -1,20 +1,11 @@
-# Markus---MDIA
+Markus Chong
+![image](https://github.com/user-attachments/assets/9f7e9bed-fda9-4fb6-9254-0262765a8930)
 
-> Word for how I'm feeling:
->
-> Feeling alright, but somewhat tired
->-------------------------------------------------
->  Things that are still unclear:
->
-> Time Managment
->-------------------------------------------------
+Learnings: 
 
->  3 "aha" moments
-> ------------------------------------------------
+3. Time management
 
-> Getting first dog
+2. Learning to communicate with peers more efficently
 
-> Playing video games
-
-> Going to bed early
+1. Stpping the urge to procastinate 
 
