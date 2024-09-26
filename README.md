@@ -14,11 +14,14 @@ Markus Chong
 3. Learned that Javascript can now be used for non-wep apps.
 
 
+
 Two things I found confusing:
 
 1. Out putting a message to the console.
 
 2. Had a rough time getting an understanding of when to use the quotation marks in the terminal.
+
+
 
 
 One word for how I'm feeling:
