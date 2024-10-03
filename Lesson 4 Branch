@@ -1,0 +1,9 @@
+// horseName = Ben
+// horseAge = 12
+// stable cost = 235;
+let horseName = "Ben"
+let horseNickname = "Blueberry"
+console.log("The name ofhorse is horseName + and its nickname is Blueberry")
+let STABLE_MONTHLY_FEE = 100
+let stablediscount = (STABLE_MONTHLY_FEE) * 0.1;
+console.log("You would save 3* + stableDiscount + with a 20% discount applied to a 3 month stay");
