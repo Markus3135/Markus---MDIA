@@ -1,0 +1,14 @@
+let favoriteFood = "Pizza";
+let numberOfPizza = 1;
+let costOfPizza = 6;
+
+if (favoriteFood === "Pizza" && numberOfPizza < 1){
+  console.log("You have Pizza too much!");
+} else if (favoriteFood !== "Pizza") {
+  console.log("yay, Pizza!");
+} else {
+  console.log("You need more than one Pizza!"); 
+
+
+
+
